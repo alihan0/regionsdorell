@@ -1,8 +1,8 @@
 {
-"continents": [
+"continents": [ // CONTINENTS
     {
-        "name": "Afrika",
-        "countries": [
+        "name": "Afrika", 
+        "countries": [  // COUNTRIES
             {
               "name": "Algeria",
               "capital": "Algiers",
@@ -92,7 +92,7 @@
     },
     {
         "name": "Antarktika",
-        "scientific_stations": [
+        "scientific_stations": [ // SCIENTIFIC STATIONS
             {
               "name": "Amundsen–Scott South Pole Station",
               "country": "United States",

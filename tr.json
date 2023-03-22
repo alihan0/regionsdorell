@@ -1,25 +1,112 @@
 {
-  "continents": [
+"continents": [
     {
-      "name": "Afrika"
+        "name": "Afrika",
+        "countries": [
+            {
+              "name": "Algeria",
+              "capital": "Algiers",
+              "language": "Arabic, Berber"
+            },
+            {
+              "name": "Angola",
+              "capital": "Luanda",
+              "language": "Portuguese"
+            },
+            {
+              "name": "Benin",
+              "capital": "Porto-Novo",
+              "language": "French"
+            },
+            {
+              "name": "Botswana",
+              "capital": "Gaborone",
+              "language": "English"
+            },
+            {
+              "name": "Burkina Faso",
+              "capital": "Ouagadougou",
+              "language": "French"
+            },
+            {
+              "name": "Burundi",
+              "capital": "Gitega",
+              "language": "Kirundi, French"
+            },
+            {
+              "name": "Cabo Verde",
+              "capital": "Praia",
+              "language": "Portuguese"
+            },
+            {
+              "name": "Cameroon",
+              "capital": "Yaoundé",
+              "language": "French, English"
+            },
+            {
+              "name": "Central African Republic",
+              "capital": "Bangui",
+              "language": "French, Sango"
+            },
+            {
+              "name": "Chad",
+              "capital": "N'Djamena",
+              "language": "French, Arabic"
+            },
+            {
+              "name": "Comoros",
+              "capital": "Moroni",
+              "language": "Comorian, Arabic, French"
+            },
+            {
+              "name": "Democratic Republic of the Congo",
+              "capital": "Kinshasa",
+              "language": "French"
+            },
+            {
+              "name": "Republic of the Congo",
+              "capital": "Brazzaville",
+              "language": "French"
+            },
+            {
+              "name": "Djibouti",
+              "capital": "Djibouti",
+              "language": "French, Arabic"
+            },
+            {
+              "name": "Egypt",
+              "capital": "Cairo",
+              "language": "Arabic"
+            },
+            {
+              "name": "Equatorial Guinea",
+              "capital": "Malabo",
+              "language": "Spanish, French, Portuguese"
+            },
+            {
+              "name": "Eritrea",
+              "capital": "Asmara",
+              "language": "Tigrinya, Arabic, English"
+            }
+          ]
     },
     {
-      "name": "Antarktika"
+        "name": "Antarktika"
     },
     {
-      "name": "Asya"
+        "name": "Asya"
     },
     {
-      "name": "Avrupa"
+        "name": "Avrupa"
     },
     {
-      "name": "Kuzey Amerika"
+        "name": "Kuzey Amerika"
     },
     {
-      "name": "Güney Amerika"
+        "name": "Güney Amerika"
     },
     {
-      "name": "Avustralya"
+        "name": "Avustralya"
     }
-  ]
+    ]
 }

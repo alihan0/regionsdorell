@@ -1,0 +1,25 @@
+{
+  "continents": [
+    {
+      "name": "Afrika"
+    },
+    {
+      "name": "Antarktika"
+    },
+    {
+      "name": "Asya"
+    },
+    {
+      "name": "Avrupa"
+    },
+    {
+      "name": "Kuzey Amerika"
+    },
+    {
+      "name": "Güney Amerika"
+    },
+    {
+      "name": "Avustralya"
+    }
+  ]
+}

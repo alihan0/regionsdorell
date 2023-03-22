@@ -91,7 +91,44 @@
           ]
     },
     {
-        "name": "Antarktika"
+        "name": "Antarktika",
+        "scientific_stations": [
+            {
+              "name": "Amundsen–Scott South Pole Station",
+              "country": "United States",
+              "established": "1956"
+            },
+            {
+              "name": "Vostok Station",
+              "country": "Russia",
+              "established": "1957"
+            },
+            {
+              "name": "Dome Fuji Station",
+              "country": "Japan",
+              "established": "1995"
+            },
+            {
+              "name": "Halley Research Station",
+              "country": "United Kingdom",
+              "established": "1956"
+            },
+            {
+              "name": "Princess Elisabeth Antarctica",
+              "country": "Belgium",
+              "established": "2009"
+            },
+            {
+              "name": "McMurdo Station",
+              "country": "United States",
+              "established": "1955"
+            },
+            {
+              "name": "Neumayer-Station III",
+              "country": "Germany",
+              "established": "2009"
+            }
+          ]
     },
     {
         "name": "Asya"

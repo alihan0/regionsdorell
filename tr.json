@@ -342,6 +342,26 @@
               "name": "Türkiye",
               "capital": "Ankara",
               "language": "Türkçe"
+            },
+            {
+                "name":"United Arab Emirates",
+                "capital":"Abu Dhabi",
+                "language":"Arabic"
+            },
+            {
+                "name":"Uzbekistan",
+                "capital":"Tashkent",
+                "language":"Uzbek"
+            },
+            {
+                "name":"Vietnam",
+                "capital":"Hanoi",
+                "language":"Vietnamese"
+            },
+            {
+                "name":"Yemen",
+                "capital":"Sana'a",
+                "language":"Arabic"
             }
           ]
       },

@@ -1,149 +1,251 @@
 {
-"continents": [ // CONTINENTS
-    {
-        "name": "Afrika", 
-        "countries": [  // COUNTRIES
+  "continents": [ 
+      {
+          "name": "Afrika", 
+          "countries": [  
+              {
+                "name": "Algeria",
+                "capital": "Algiers",
+                "language": "Arabic, Berber"
+              },
+              {
+                "name": "Angola",
+                "capital": "Luanda",
+                "language": "Portuguese"
+              },
+              {
+                "name": "Benin",
+                "capital": "Porto-Novo",
+                "language": "French"
+              },
+              {
+                "name": "Botswana",
+                "capital": "Gaborone",
+                "language": "English"
+              },
+              {
+                "name": "Burkina Faso",
+                "capital": "Ouagadougou",
+                "language": "French"
+              },
+              {
+                "name": "Burundi",
+                "capital": "Gitega",
+                "language": "Kirundi, French"
+              },
+              {
+                "name": "Cabo Verde",
+                "capital": "Praia",
+                "language": "Portuguese"
+              },
+              {
+                "name": "Cameroon",
+                "capital": "Yaoundé",
+                "language": "French, English"
+              },
+              {
+                "name": "Central African Republic",
+                "capital": "Bangui",
+                "language": "French, Sango"
+              },
+              {
+                "name": "Chad",
+                "capital": "N'Djamena",
+                "language": "French, Arabic"
+              },
+              {
+                "name": "Comoros",
+                "capital": "Moroni",
+                "language": "Comorian, Arabic, French"
+              },
+              {
+                "name": "Democratic Republic of the Congo",
+                "capital": "Kinshasa",
+                "language": "French"
+              },
+              {
+                "name": "Republic of the Congo",
+                "capital": "Brazzaville",
+                "language": "French"
+              },
+              {
+                "name": "Djibouti",
+                "capital": "Djibouti",
+                "language": "French, Arabic"
+              },
+              {
+                "name": "Egypt",
+                "capital": "Cairo",
+                "language": "Arabic"
+              },
+              {
+                "name": "Equatorial Guinea",
+                "capital": "Malabo",
+                "language": "Spanish, French, Portuguese"
+              },
+              {
+                "name": "Eritrea",
+                "capital": "Asmara",
+                "language": "Tigrinya, Arabic, English"
+              }
+            ]
+      },
+      {
+          "name": "Antarktika",
+          "scientific_stations": [
+              {
+                "name": "Amundsen–Scott South Pole Station",
+                "country": "United States",
+                "established": "1956"
+              },
+              {
+                "name": "Vostok Station",
+                "country": "Russia",
+                "established": "1957"
+              },
+              {
+                "name": "Dome Fuji Station",
+                "country": "Japan",
+                "established": "1995"
+              },
+              {
+                "name": "Halley Research Station",
+                "country": "United Kingdom",
+                "established": "1956"
+              },
+              {
+                "name": "Princess Elisabeth Antarctica",
+                "country": "Belgium",
+                "established": "2009"
+              },
+              {
+                "name": "McMurdo Station",
+                "country": "United States",
+                "established": "1955"
+              },
+              {
+                "name": "Neumayer-Station III",
+                "country": "Germany",
+                "established": "2009"
+              }
+            ]
+      },
+      {
+          "name": "Asya"
+          "countries" : [
             {
-              "name": "Algeria",
-              "capital": "Algiers",
-              "language": "Arabic, Berber"
+              "name": "Afganistan",
+              "capital": "Kabil",
+              "language": "Dari, Pashto"
             },
             {
-              "name": "Angola",
-              "capital": "Luanda",
-              "language": "Portuguese"
+              "name": "Birleşik Arap Emirlikleri",
+              "capital": "Abu Dabi",
+              "language": "Arapça"
             },
             {
-              "name": "Benin",
-              "capital": "Porto-Novo",
-              "language": "French"
+              "name": "Bangladeş",
+              "capital": "Dhaka",
+              "language": "Bengalce"
             },
             {
-              "name": "Botswana",
-              "capital": "Gaborone",
-              "language": "English"
+              "name": "Bhutan",
+              "capital": "Thimphu",
+              "language": "Dzongkha"
             },
             {
-              "name": "Burkina Faso",
-              "capital": "Ouagadougou",
-              "language": "French"
+              "name": "Brunei",
+              "capital": "Bandar Seri Begawan",
+              "language": "Malay"
             },
             {
-              "name": "Burundi",
-              "capital": "Gitega",
-              "language": "Kirundi, French"
+              "name": "Kamboçya",
+              "capital": "Phnom Penh",
+              "language": "Khmer"
             },
             {
-              "name": "Cabo Verde",
-              "capital": "Praia",
-              "language": "Portuguese"
+              "name": "Çin",
+              "capital": "Pekin",
+              "language": "Çince"
             },
             {
-              "name": "Cameroon",
-              "capital": "Yaoundé",
-              "language": "French, English"
+              "name": "Doğu Timor",
+              "capital": "Dili",
+              "language": "Tetum, Portekizce"
             },
             {
-              "name": "Central African Republic",
-              "capital": "Bangui",
-              "language": "French, Sango"
+              "name": "Gürcistan",
+              "capital": "Tiflis",
+              "language": "Gürcüce"
             },
             {
-              "name": "Chad",
-              "capital": "N'Djamena",
-              "language": "French, Arabic"
+              "name": "Hindistan",
+              "capital": "Yeni Delhi",
+              "language": "Hindi, İngilizce"
             },
             {
-              "name": "Comoros",
-              "capital": "Moroni",
-              "language": "Comorian, Arabic, French"
+              "name": "Endonezya",
+              "capital": "Cakarta",
+              "language": "Endonezce"
             },
             {
-              "name": "Democratic Republic of the Congo",
-              "capital": "Kinshasa",
-              "language": "French"
+              "name": "İran",
+              "capital": "Tahran",
+              "language": "Farsça"
             },
             {
-              "name": "Republic of the Congo",
-              "capital": "Brazzaville",
-              "language": "French"
+              "name": "Irak",
+              "capital": "Bağdat",
+              "language": "Arapça, Kürtçe"
             },
             {
-              "name": "Djibouti",
-              "capital": "Djibouti",
-              "language": "French, Arabic"
+              "name": "İsrail",
+              "capital": "Kudüs",
+              "language": "İbranice"
             },
             {
-              "name": "Egypt",
-              "capital": "Cairo",
-              "language": "Arabic"
+              "name": "Japonya",
+              "capital": "Tokyo",
+              "language": "Japonca"
             },
             {
-              "name": "Equatorial Guinea",
-              "capital": "Malabo",
-              "language": "Spanish, French, Portuguese"
+              "name": "Ürdün",
+              "capital": "Amman",
+              "language": "Arapça"
             },
             {
-              "name": "Eritrea",
-              "capital": "Asmara",
-              "language": "Tigrinya, Arabic, English"
+              "name": "Kazakistan",
+              "capital": "Nur-Sultan",
+              "language": "Kazakça, Rusça"
+            },
+            {
+              "name": "Kırgızistan",
+              "capital": "Bişkek",
+              "language": "Kırgızca, Rusça"
+            },
+            {
+              "name": "Kuzey Kore",
+              "capital": "Pyongyang",
+              "language": "Korece"
+            },
+            {
+              "name": "Güney Kore",
+              "capital": "Seul",
+              "language": "Korece"
             }
           ]
-    },
-    {
-        "name": "Antarktika",
-        "scientific_stations": [ // SCIENTIFIC STATIONS
-            {
-              "name": "Amundsen–Scott South Pole Station",
-              "country": "United States",
-              "established": "1956"
-            },
-            {
-              "name": "Vostok Station",
-              "country": "Russia",
-              "established": "1957"
-            },
-            {
-              "name": "Dome Fuji Station",
-              "country": "Japan",
-              "established": "1995"
-            },
-            {
-              "name": "Halley Research Station",
-              "country": "United Kingdom",
-              "established": "1956"
-            },
-            {
-              "name": "Princess Elisabeth Antarctica",
-              "country": "Belgium",
-              "established": "2009"
-            },
-            {
-              "name": "McMurdo Station",
-              "country": "United States",
-              "established": "1955"
-            },
-            {
-              "name": "Neumayer-Station III",
-              "country": "Germany",
-              "established": "2009"
-            }
-          ]
-    },
-    {
-        "name": "Asya"
-    },
-    {
-        "name": "Avrupa"
-    },
-    {
-        "name": "Kuzey Amerika"
-    },
-    {
-        "name": "Güney Amerika"
-    },
-    {
-        "name": "Avustralya"
-    }
-    ]
-}
+      },
+      {
+          "name": "Avrupa"
+      },
+      {
+          "name": "Kuzey Amerika"
+      },
+      {
+          "name": "Güney Amerika"
+      },
+      {
+          "name": "Avustralya"
+      }
+      ]
+  }

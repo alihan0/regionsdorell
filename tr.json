@@ -232,6 +232,116 @@
               "name": "Güney Kore",
               "capital": "Seul",
               "language": "Korece"
+            },
+            {
+              "name": "Kuveyt",
+              "capital": "Kuveyt",
+              "language": "Arapça"
+            },
+            {
+              "name": "Kırgızistan",
+              "capital": "Bişkek",
+              "language": "Kırgızca"
+            },
+            {
+              "name": "Lübnan",
+              "capital": "Beyrut",
+              "language": "Arapça"
+            },
+            {
+              "name": "Malezya",
+              "capital": "Kuala Lumpur",
+              "language": "Malayca"
+            },
+            {
+              "name": "Maldivler",
+              "capital": "Malé",
+              "language": "Maldivce"
+            },
+            {
+              "name": "Moğolistan",
+              "capital": "Ulan Batur",
+              "language": "Moğolca"
+            },
+            {
+              "name": "Myanmar (Burma)",
+              "capital": "Naypyidaw",
+              "language": "Birmanca"
+            },
+            {
+              "name": "Nepal",
+              "capital": "Katmandu",
+              "language": "Nepalce"
+            },
+            {
+              "name": "Umman",
+              "capital": "Maskat",
+              "language": "Arapça"
+            },
+            {
+              "name": "Pakistan",
+              "capital": "İslamabad",
+              "language": "Urduca"
+            },
+            {
+              "name": "Filipinler",
+              "capital": "Manila",
+              "language": "Filipince"
+            },
+            {
+              "name": "Katar",
+              "capital": "Doha",
+              "language": "Arapça"
+            },
+            {
+              "name": "Rusya",
+              "capital": "Moskova",
+              "language": "Rusça"
+            },
+            {
+              "name": "Suudi Arabistan",
+              "capital": "Riyad",
+              "language": "Arapça"
+            },
+            {
+              "name": "Singapur",
+              "capital": "Singapur",
+              "language": "İngilizce, Malayca, Tamilce, Çince"
+            },
+            {
+              "name": "Sri Lanka",
+              "capital": "Colombo",
+              "language": "Sincan dili, Tamilce"
+            },
+            {
+              "name": "Suriye",
+              "capital": "Şam",
+              "language": "Arapça"
+            },
+            {
+              "name": "Tayvan",
+              "capital": "Taipei",
+              "language": "Çince"
+            },
+            {
+              "name": "Tacikistan",
+              "capital": "Duşanbe",
+              "language": "Tacikçe"
+            },
+            {
+              "name": "Tayland",
+              "capital": "Bangkok",
+              "language": "Tayca"
+            },
+            {
+              "name": "Timor-Leste (Doğu Timor)",
+              "capital": "Dili",
+              "language": "Portekizce, Tetum"
+            },
+            {
+              "name": "Türkiye",
+              "capital": "Ankara",
+              "language": "Türkçe"
             }
           ]
       },

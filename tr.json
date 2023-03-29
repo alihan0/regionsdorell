@@ -367,6 +367,128 @@
       },
       {
           "name": "Avrupa"
+          "countries" :[
+            {
+              "name": "Albania",
+              "capital": "Tirana",
+              "language": "Albanian"
+            },
+            {
+              "name": "Andorra",
+              "capital": "Andorra la Vella",
+              "language": "Catalan"
+            },
+            {
+              "name": "Austria",
+              "capital": "Vienna",
+              "language": "German"
+            },
+            {
+              "name": "Belarus",
+              "capital": "Minsk",
+              "language": "Belarusian, Russian"
+            },
+            {
+              "name": "Belgium",
+              "capital": "Brussels",
+              "language": "Dutch, French, German"
+            },
+            {
+              "name": "Bosnia and Herzegovina",
+              "capital": "Sarajevo",
+              "language": "Bosnian, Croatian, Serbian"
+            },
+            {
+              "name": "Bulgaria",
+              "capital": "Sofia",
+              "language": "Bulgarian"
+            },
+            {
+              "name": "Croatia",
+              "capital": "Zagreb",
+              "language": "Croatian"
+            },
+            {
+              "name": "Cyprus",
+              "capital": "Nicosia",
+              "language": "Greek, Turkish"
+            },
+            {
+              "name": "Czech Republic",
+              "capital": "Prague",
+              "language": "Czech"
+            },
+            {
+              "name": "Denmark",
+              "capital": "Copenhagen",
+              "language": "Danish"
+            },
+            {
+              "name": "Estonia",
+              "capital": "Tallinn",
+              "language": "Estonian"
+            },
+            {
+              "name": "Finland",
+              "capital": "Helsinki",
+              "language": "Finnish, Swedish"
+            },
+            {
+              "name": "France",
+              "capital": "Paris",
+              "language": "French"
+            },
+            {
+              "name": "Germany",
+              "capital": "Berlin",
+              "language": "German"
+            },
+            {
+              "name": "Greece",
+              "capital": "Athens",
+              "language": "Greek"
+            },
+            {
+              "name": "Hungary",
+              "capital": "Budapest",
+              "language": "Hungarian"
+            },
+            {
+              "name": "Iceland",
+              "capital": "Reykjavik",
+              "language": "Icelandic"
+            },
+            {
+              "name": "Ireland",
+              "capital": "Dublin",
+              "language": "Irish, English"
+            },
+            {
+              "name": "Italy",
+              "capital": "Rome",
+              "language": "Italian"
+            },
+            {
+              "name": "Kosovo",
+              "capital": "Pristina",
+              "language": "Albanian, Serbian"
+            },
+            {
+              "name": "Latvia",
+              "capital": "Riga",
+              "language": "Latvian"
+            },
+            {
+              "name": "Liechtenstein",
+              "capital": "Vaduz",
+              "language": "German"
+            },
+            {
+              "name": "Lithuania",
+              "capital": "Vilnius",
+              "language": "Lithuanian"
+            }
+          ]
       },
       {
           "name": "Kuzey Amerika"
